@@ -1,0 +1,5 @@
+export const WASMConfig = {
+  name: "WebAssembly",
+  extension: ".wasm",
+  icon: "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjNjU0RkYwIiBkPSJNMTAwLjUgMTIuOEwyNy40IDM2LjRsLTkuMSA3OC44IDczLjEtMTUuMnoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNjguNCAzOS40bC02LjYgMTEuMy02LjctMTEuM2gtMTBsMTEuOCAxOS44LTEyLjEgMjAuMmgxMGw3LTYuOSA3LjEgNi45aDEwbC0xMi4yLTIwLjIgMTEuOS0xOS44eiIvPjwvc3ZnPg=="
+};
