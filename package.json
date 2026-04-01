@@ -1,0 +1,21 @@
+{
+  "name": "avisk.github.io",
+  "version": "1.0.0",
+  "description": "An Open-Source IDE that supports multiple code languages like HTML, CSS, JS, Java and More!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohib-7428/Avisk.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mohib-7428/Avisk.github.io/issues"
+  },
+  "homepage": "https://github.com/mohib-7428/Avisk.github.io#readme"
+}
